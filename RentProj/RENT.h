@@ -9,7 +9,7 @@ private:
 
 public:
 
-	Rent(double tid, double rent, double utilities, double att, double pge, double sfarm);
+	Rent(double tid, double rent, double util, double att, double pge, double sfarm);
 
 	double CalculateRent();
 
